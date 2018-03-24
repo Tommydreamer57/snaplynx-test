@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Tommydreamer57/snaplynx-test#readme",
   "dependencies": {
     "express": "^4.16.3"
-  }
+  },
+  "main": "server/index.js"
 }
